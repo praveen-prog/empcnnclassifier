@@ -1,5 +1,5 @@
-from empcnnclassifier import logging
+from empcnnclassifier import logger
 
-logging.info("Welcome to custom log")
-logging.info("Test script has executed")
+logger.info("Welcome to custom log")
+logger.info("Test script has executed")
 
